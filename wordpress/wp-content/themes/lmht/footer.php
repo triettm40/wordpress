@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>wordpress</title>
 </head>
 
 <style>
@@ -18,7 +18,7 @@
             <div class="row">
                 <div class="col-md-3">
                     <div class="logo">
-                        <img src="http://localhost/lienminhhuyenthoai/wp-content/uploads/2021/04/Full1.png" alt="12_Full">
+                        <img src="http://wordpress.local/wp-content/uploads/2021/04/Full1.png" alt="12_Full">
                     </div>
                 </div>
                 <div class="col">
@@ -30,7 +30,7 @@
                 </div>
                 <div class="col-md-3">
                     <div class="imgR">
-                        <img src="http://localhost/lienminhhuyenthoai/wp-content/uploads/2021/04/logo.png" alt="ved-logo">
+                        <img src="http://wordpress.local/wp-content/uploads/2021/04/logo.png" alt="ved-logo">
                     </div>
                 </div>
             </div>

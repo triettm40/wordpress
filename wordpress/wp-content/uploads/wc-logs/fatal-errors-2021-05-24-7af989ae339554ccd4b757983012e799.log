@@ -1,0 +1,162 @@
+2021-05-24T08:29:00+00:00 CRITICAL Uncaught Error: Class 'Orchid_Store_Products_Filter_Widget' not found in C:\wamp64\www\wordpress\wp-includes\class-wp-widget-factory.php:61
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\widgets.php(115): WP_Widget_Factory->register('Orchid_Store_Pr...')
+#1 C:\wamp64\www\wordpress\wp-content\themes\orchid-store\widget\widgets-init.php(79): register_widget('Orchid_Store_Pr...')
+#2 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): orchid_store_widgets_init('')
+#3 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#4 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#5 C:\wamp64\www\wordpress\wp-includes\widgets.php(1799): do_action('widgets_init')
+#6 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): wp_widgets_init('')
+#7 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#8 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#9 C:\wamp64\www\ in C:\wamp64\www\wordpress\wp-includes\class-wp-widget-factory.php on line 61
+
+2021-05-24T08:29:04+00:00 CRITICAL Uncaught Error: Class 'Orchid_Store_Products_Filter_Widget' not found in C:\wamp64\www\wordpress\wp-includes\class-wp-widget-factory.php:61
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\widgets.php(115): WP_Widget_Factory->register('Orchid_Store_Pr...')
+#1 C:\wamp64\www\wordpress\wp-content\themes\orchid-store\widget\widgets-init.php(79): register_widget('Orchid_Store_Pr...')
+#2 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): orchid_store_widgets_init('')
+#3 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#4 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#5 C:\wamp64\www\wordpress\wp-includes\widgets.php(1799): do_action('widgets_init')
+#6 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): wp_widgets_init('')
+#7 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#8 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#9 C:\wamp64\www\ in C:\wamp64\www\wordpress\wp-includes\class-wp-widget-factory.php on line 61
+
+2021-05-24T08:29:29+00:00 CRITICAL Uncaught Error: Class 'Orchid_Store_Banner_Widget' not found in C:\wamp64\www\wordpress\wp-includes\class-wp-widget-factory.php:61
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\widgets.php(115): WP_Widget_Factory->register('Orchid_Store_Ba...')
+#1 C:\wamp64\www\wordpress\wp-content\themes\orchid-store\widget\widgets-init.php(64): register_widget('Orchid_Store_Ba...')
+#2 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): orchid_store_widgets_init('')
+#3 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#4 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#5 C:\wamp64\www\wordpress\wp-includes\widgets.php(1799): do_action('widgets_init')
+#6 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): wp_widgets_init('')
+#7 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#8 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#9 C:\wamp64\www\wordpress in C:\wamp64\www\wordpress\wp-includes\class-wp-widget-factory.php on line 61
+
+2021-05-24T08:29:30+00:00 CRITICAL Uncaught Error: Class 'Orchid_Store_Banner_Widget' not found in C:\wamp64\www\wordpress\wp-includes\class-wp-widget-factory.php:61
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\widgets.php(115): WP_Widget_Factory->register('Orchid_Store_Ba...')
+#1 C:\wamp64\www\wordpress\wp-content\themes\orchid-store\widget\widgets-init.php(64): register_widget('Orchid_Store_Ba...')
+#2 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): orchid_store_widgets_init('')
+#3 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#4 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#5 C:\wamp64\www\wordpress\wp-includes\widgets.php(1799): do_action('widgets_init')
+#6 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): wp_widgets_init('')
+#7 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#8 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#9 C:\wamp64\www\wordpress in C:\wamp64\www\wordpress\wp-includes\class-wp-widget-factory.php on line 61
+
+2021-05-24T08:29:30+00:00 CRITICAL Uncaught Error: Class 'Orchid_Store_Banner_Widget' not found in C:\wamp64\www\wordpress\wp-includes\class-wp-widget-factory.php:61
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\widgets.php(115): WP_Widget_Factory->register('Orchid_Store_Ba...')
+#1 C:\wamp64\www\wordpress\wp-content\themes\orchid-store\widget\widgets-init.php(64): register_widget('Orchid_Store_Ba...')
+#2 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): orchid_store_widgets_init('')
+#3 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#4 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#5 C:\wamp64\www\wordpress\wp-includes\widgets.php(1799): do_action('widgets_init')
+#6 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): wp_widgets_init('')
+#7 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#8 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#9 C:\wamp64\www\wordpress in C:\wamp64\www\wordpress\wp-includes\class-wp-widget-factory.php on line 61
+
+2021-05-24T08:29:30+00:00 CRITICAL Uncaught Error: Class 'Orchid_Store_Banner_Widget' not found in C:\wamp64\www\wordpress\wp-includes\class-wp-widget-factory.php:61
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\widgets.php(115): WP_Widget_Factory->register('Orchid_Store_Ba...')
+#1 C:\wamp64\www\wordpress\wp-content\themes\orchid-store\widget\widgets-init.php(64): register_widget('Orchid_Store_Ba...')
+#2 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): orchid_store_widgets_init('')
+#3 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#4 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#5 C:\wamp64\www\wordpress\wp-includes\widgets.php(1799): do_action('widgets_init')
+#6 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): wp_widgets_init('')
+#7 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#8 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#9 C:\wamp64\www\wordpress in C:\wamp64\www\wordpress\wp-includes\class-wp-widget-factory.php on line 61
+
+2021-05-24T08:29:31+00:00 CRITICAL Uncaught Error: Class 'Orchid_Store_Banner_Widget' not found in C:\wamp64\www\wordpress\wp-includes\class-wp-widget-factory.php:61
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\widgets.php(115): WP_Widget_Factory->register('Orchid_Store_Ba...')
+#1 C:\wamp64\www\wordpress\wp-content\themes\orchid-store\widget\widgets-init.php(64): register_widget('Orchid_Store_Ba...')
+#2 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): orchid_store_widgets_init('')
+#3 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#4 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#5 C:\wamp64\www\wordpress\wp-includes\widgets.php(1799): do_action('widgets_init')
+#6 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): wp_widgets_init('')
+#7 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#8 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#9 C:\wamp64\www\wordpress in C:\wamp64\www\wordpress\wp-includes\class-wp-widget-factory.php on line 61
+
+2021-05-24T08:31:22+00:00 CRITICAL Uncaught Error: Cannot call constructor in C:\wamp64\www\wordpress\wp-content\plugins\mailpoet\lib\Form\Widget.php:29
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-widget-factory.php(61): MailPoet\Form\Widget->__construct()
+#1 C:\wamp64\www\wordpress\wp-includes\widgets.php(115): WP_Widget_Factory->register('\\MailPoet\\Form\\...')
+#2 C:\wamp64\www\wordpress\wp-content\plugins\mailpoet\lib\WP\Functions.php(397): register_widget('\\MailPoet\\Form\\...')
+#3 C:\wamp64\www\wordpress\wp-content\plugins\mailpoet\lib\Config\Initializer.php(205): MailPoet\WP\Functions->registerWidget('\\MailPoet\\Form\\...')
+#4 C:\wamp64\www\wordpress\wp-content\plugins\mailpoet\lib\Config\Initializer.php(195): MailPoet\Config\Initializer->setupWidget()
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): MailPoet\Config\Initializer->preInitialize('')
+#6 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#7 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Ho in C:\wamp64\www\wordpress\wp-content\plugins\mailpoet\lib\Form\Widget.php on line 29
+
+2021-05-24T08:49:23+00:00 CRITICAL Uncaught Error: Call to undefined function orchid_store_get_option() in C:\wamp64\www\wordpress\wp-content\themes\orchid-store\footer.php:21
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template.php(730): require_once()
+#1 C:\wamp64\www\wordpress\wp-includes\template.php(676): load_template('C:\\wamp64\\www\\w...', true, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\wamp64\www\wordpress\wp-content\themes\orchid-store\page.php(62): get_footer()
+#4 C:\wamp64\www\wordpress\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#6 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#7 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\themes\orchid-store\footer.php on line 21
+
+2021-05-24T08:50:52+00:00 CRITICAL Uncaught Error: Call to undefined function orchid_store_get_option() in C:\wamp64\www\wordpress\wp-content\themes\orchid-store\widget\widgets-init.php:33
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): orchid_store_widgets_init('')
+#1 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\wordpress\wp-includes\widgets.php(1799): do_action('widgets_init')
+#4 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): wp_widgets_init('')
+#5 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#7 C:\wamp64\www\wordpress\wp-settings.php(560): do_action('init')
+#8 C:\wamp64\www\wordpress\wp-config.php(90): require_once('C:\\wamp64\\www\\w...')
+#9 C:\wamp64\www\wordpress\wp-load.php(37): require_once('C:\\wamp64\\www\\w...')
+#1 in C:\wamp64\www\wordpress\wp-content\themes\orchid-store\widget\widgets-init.php on line 33
+
+2021-05-24T08:51:05+00:00 CRITICAL syntax error, unexpected '*', expecting end of file in C:\wamp64\www\wordpress\wp-content\themes\orchid-store\functions.php on line 242
+
+2021-05-24T09:00:31+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_stock_quantily() in C:\wamp64\www\wordpress\wp-content\themes\orchid-store\woocommerce\content-product.php:71
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template.php(732): require()
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('C:\\wamp64\\www\\w...', false)
+#2 C:\wamp64\www\wordpress\wp-content\themes\orchid-store\woocommerce\archive-product.php(68): wc_get_template_part('content', 'product')
+#3 C:\wamp64\www\wordpress\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#4 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#6 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\themes\orchid-store\woocommerce\content-product.php on line 71
+
+2021-05-24T09:00:49+00:00 CRITICAL Uncaught Error: Call to undefined function get_stock_quantily() in C:\wamp64\www\wordpress\wp-content\themes\orchid-store\woocommerce\content-product.php:71
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template.php(732): require()
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('C:\\wamp64\\www\\w...', false)
+#2 C:\wamp64\www\wordpress\wp-content\themes\orchid-store\woocommerce\archive-product.php(68): wc_get_template_part('content', 'product')
+#3 C:\wamp64\www\wordpress\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\w...')
+#4 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#5 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#6 {main}
+  thrown in C:\wamp64\www\wordpress\wp-content\themes\orchid-store\woocommerce\content-product.php on line 71
+
+2021-05-24T09:10:00+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::get_stock_quantily() in C:\wamp64\www\wordpress\wp-content\themes\orchid-store\woocommerce\content-product.php:71
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template.php(732): require()
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('C:\\wamp64\\www\\w...', false)
+#2 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\templates\single-product\related.php(43): wc_get_template_part('content', 'product')
+#3 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\wamp64\\www\\w...')
+#4 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1977): wc_get_template('single-product/...', Array)
+#5 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1940): woocommerce_related_products(Array)
+#6 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(292): woocommerce_o in C:\wamp64\www\wordpress\wp-content\themes\orchid-store\woocommerce\content-product.php on line 71
+
