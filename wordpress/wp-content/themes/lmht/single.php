@@ -11,7 +11,7 @@
 
                     wp_link_pages(
                         array(
-                            'before' => '<div class="page-links">' . esc_html__('Pages:', 'wordpress.local'),
+                            'before' => '<div class="page-links">' . esc_html__('Pages:', 'lienminhhuyenthoai'),
                             'after' => '</div>',
                         )
                     );?>
